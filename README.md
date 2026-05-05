@@ -9,7 +9,7 @@ CSD is a complete investor onboarding, Fund Management, and Compliance platform 
 ---
 
 ## 🎯 Key Features
-![Module](https://github.com/netstaffle-tech/LisdTechCenter/blob/main/Lisdtechcenter_aaplication.png)
+![Module](https://github.com/netstaffle-tech/CommonSubDoc/blob/main/Funding_management.png)
 
 ---
 
